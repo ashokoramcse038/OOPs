@@ -1,0 +1,13 @@
+Classes and Objects
+->Objects are entities in the real world
+-> class is like a blueprint of these entities
+
+     system
+   teacher
+ ->object
+ ->name
+ ->dept
+ ->subject
+ ->salary
+ ->change dept
+
